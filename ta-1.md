@@ -1,25 +1,9 @@
-Perfect! Here's your **Technical Assessment #1** (difficulty: **Easy**, backend-focused in TypeScript) – complete with:
+Here's your **Technical Assessment #1** (difficulty: **Easy**, backend-focused in TypeScript) – complete with:
 
 * 📄 Scenario
 * 🧩 Partially written code with **TBD** sections
 * ✅ Jest test cases
 * ⚠️ Real-world expectations and edge cases
-
----
-
-## 🧪 Prompt Template (for future use)
-
-```
-Generate a backend technical assessment with the following:
-- Language: TypeScript
-- Stack: Node.js + Express + MongoDB (optional)
-- Format: Real-world scenario
-- Difficulty: <easy|medium|hard>
-- Requirements:
-  - Provide partially completed source code with clearly marked TBD areas
-  - Include test cases written in Jest
-  - Include real-world edge-case expectations and best practices
-```
 
 ---
 
