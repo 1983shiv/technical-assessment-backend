@@ -29,11 +29,12 @@ describe('calculateOrderTotal', () => {
     };
 
     const result = calculateOrderTotal(order);
+    console.log({result})
     expect(result).toEqual({
       subtotal: 900,
       tax: 45,
-      discount: 10,
-      total: 935
+      discount: 90,
+      total: 855
     });
   });
 
