@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "node ./src/birthdayReminder.js",
+    "dev": "node ./dist/birthdayReminder.js",
     "test": "jest"
   },
   "keywords": [],
