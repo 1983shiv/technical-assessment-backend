@@ -2,6 +2,7 @@
   "name": "backend-ta-easy",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "node ./dist/birthdayReminder.js",
     "test": "jest"
@@ -12,8 +13,16 @@
   "description": "",
   "dependencies": {
     "@types/jest": "^30.0.0",
+    "express": "^5.1.0",
     "jest": "^30.0.5",
     "ts-jest": "^29.4.0",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "validator": "^13.15.15"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/supertest": "^6.0.3",
+    "@types/validator": "^13.15.2",
+    "supertest": "^7.1.4"
   }
 }
